@@ -14,3 +14,5 @@ cdn.pandora.xiaomi.com
 mitv.tracking.intl.miui.com
 intl.tvapi.pandora.xiaomi.com
 search.intl.miui.com
+tv.global.mi.com
+api.amazonvideo.com
