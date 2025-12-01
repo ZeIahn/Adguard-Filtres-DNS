@@ -1,0 +1,16 @@
+data.mistat.xiaomi.com
+track.m.taobao.com
+api.ad.xiaomi.com
+resolver.gslb.mi-idc.com
+ad.xiaomi.com
+gslb.miui.com
+mkt.xiaomi.com
+tvapi.pandora.xiaomi.com
+ott.api.pandora.xiaomi.com
+broapi.mitv.com
+de.pandora.xiaomi.com
+market.xiaomi.com
+cdn.pandora.xiaomi.com
+mitv.tracking.intl.miui.com
+intl.tvapi.pandora.xiaomi.com
+search.intl.miui.com
