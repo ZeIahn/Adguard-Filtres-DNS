@@ -1,6 +1,5 @@
 data.mistat.xiaomi.com
 track.m.taobao.com
-api.ad.xiaomi.com
 resolver.gslb.mi-idc.com
 ad.xiaomi.com
 gslb.miui.com
@@ -15,4 +14,18 @@ mitv.tracking.intl.miui.com
 intl.tvapi.pandora.xiaomi.com
 search.intl.miui.com
 tv.global.mi.com
-api.amazonvideo.com
+tracking.miui.com
+api.ad.xiaomi.com
+globalapi.ad.xiaomi.com
+sdkconfig.ad.xiaomi.com
+tvmanager.tv.mi.com
+staging.tvmanager.tv.mi.com
+patchwall.tv.mi.com
+global.patchwall.mi.com
+config.patchwall.tv.mi.com
+fr.tv.global.mi.com
+sgapp.tv.global.mi.com
+eu.tv.global.mi.com
+apply-apk.tv.global.mi.com
+apply-sg.tv.global.mi.com
+api.tv.global.mi.com
