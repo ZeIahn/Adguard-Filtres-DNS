@@ -1,0 +1,7 @@
+utiq.com
+*.utiq.com
+utiq-test.com
+*.utiq-test.com
+consenthub.utiq.com
+cmp.utiq.com
+utiqcdn.com
